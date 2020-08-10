@@ -52,6 +52,7 @@ To create recommendations that can be used with the Delivery API, use the [Form-
 
 3. Select a Property, and click **[!UICONTROL Next]**.
 4. Define the location where you would like users to receive the recommendation's response. The example below uses a location named *api_charter*. Select your JSON-based design, created earlier, named *Simple JSON.*
+
    ![server-side-create-recs-form.png](assets/server-side-create-recs-form1.png)
 5. Save and activate the recommendation. It will generate results. [Once the results are ready](https://docs.adobe.com/content/help/en/target/using/recommendations/recommendations-activity/previewing-and-launching-your-recommendations-activity.html), you can use the Delivery API to retrieve them.
 
