@@ -14,7 +14,7 @@ author: Judy Kim
 
 # Adobe Recommendations API Overview
 
-APIs relevant for [!DNL Recommendations] include [admin APIs](https://docs.adobe.com/content/help/en/target-learn/apis/api-overview.md) that allow you to:
+APIs relevant for [!DNL Recommendations] include [admin APIs](https://docs.adobe.com/content/help/en/target-learn/tutorials/apis/api-overview.html) that allow you to:
 
 * Manage your catalog of recommendable products or content
 * Manage your [!DNL Recommendations] algorithms and activities
